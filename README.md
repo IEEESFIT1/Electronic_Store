@@ -68,9 +68,9 @@ After logging in as a customer, it will redirect the user to the welcome page wh
 ---
 
 ### <a name="acknowledgements"> 5. Acknowledgements</a>
-- Clare Rebello
-- Shravani Dhuri
-- Kate Rebello
+- <a href="https://github.com/clare0901">Clare Rebello</a>
+- <a href="https://github.com/Shravani01007">Shravani Dhuri</a>
+- <a href="https://github.com/katerebello">Kate Rebello</a>
     
 
 [![WhatsApp Image 2020-10-13 at 7 04 51 PM](https://user-images.githubusercontent.com/72509723/95880997-b7cebe80-0d95-11eb-8934-1d4577546a52.jpeg)](http://issb.sfit.ac.in/)
